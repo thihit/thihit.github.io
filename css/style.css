@@ -255,7 +255,7 @@ header #header-menu{
 /* Estilo da Hero */
 
 #hero{
-    background-image: url(/assets/images/backgroundHero.png);
+    background-image: url("../assets/images/backgroundHero.png");
     color: white;
     min-height: 100vh;
 }
@@ -743,7 +743,7 @@ header #header-menu{
 /* Services */
 
 #services{
-    background: url(/assets/images/backgroundgeneral.png);
+    background: url("../assets/images/backgroundgeneral.png");
     color: var(--white);
     padding-top: var(--space-96);
     padding-bottom: var(--space-96);
@@ -1044,7 +1044,7 @@ header #header-menu{
 /* Process */
 
 #process{
-    background: url(/assets/images/backgroundgeneral.png) ;
+    background: url("../assets/images/backgroundgeneral.png") ;
     color: var(--white);
     padding: var(--space-96) 0;
 }
